@@ -1,9 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenmoqadam&repo=SEPC)](https://github.com/mohsenmoqadam/SEPC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenmoqadam&repo=bingo)](https://github.com/mohsenmoqadam/bingo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenmoqadam&repo=gaby)](https://github.com/mohsenmoqadam/gaby)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenmoqadam&repo=Taipan)](https://github.com/mohsenmoqadam/Taipan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenmoqadam&repo=FNLD)](https://github.com/mohsenmoqadam/FNLD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohsenmoqadam&repo=rust_on_emacs)](https://github.com/mohsenmoqadam/rust_on_emacs)
+#
 <!--
 **mohsenmoqadam/mohsenmoqadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
